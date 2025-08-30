@@ -27,5 +27,5 @@ Users can sign up, sign in, add products to cart, and manage them through a simp
 <h2>
 
 ![handPointRight](https://readmecodegen.vercel.app/api/social-icon?name=handPointRight&size=20&animation=glow)
-<a href="https://YOUR-LIVE-DEMO-LINK.netlify.app/" target="_blank">Live Demo</a> 
+<a href="https://shop-mates.netlify.app" target="_blank">Live Demo</a> 
 </h2>
