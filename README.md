@@ -1,12 +1,31 @@
-# React + Vite
+<h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![shopmate](https://readmecodegen.vercel.app/api/social-icon?name=shoppingCart&size=32&animation=glow&animationDuration=5&color=%233b82f6)
+ShopMate
+</h1> 
 
-Currently, two official plugins are available:
+## Overview  
+A clean and functional **E-Commerce Website** built with **React**.  
+The app includes **Firebase Authentication** for secure login/signup and integrates with an **API** to fetch product data.  
+Users can sign up, sign in, add products to cart, and manage them through a simple and intuitive interface.  
+*(Note: Currently not responsive)*
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used  
+- React.js (React Router for navigation)  
+- Tailwind CSS  
+- JavaScript  
+- Firebase (Authentication)  
+- External API for product data  
 
-## Expanding the ESLint configuration
+<h2>
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![camera](https://readmecodegen.vercel.app/api/social-icon?name=camera&size=20&animation=glow) Screenshot
+</h2>
+
+[![Screenshot](https://i.postimg.cc/Y9P1qGQG/Screenshot-2025-08-30-at-14-39-32.png)](https://postimg.cc/tZh1BgSp)
+
+<h2>
+
+![handPointRight](https://readmecodegen.vercel.app/api/social-icon?name=handPointRight&size=20&animation=glow)
+<a href="https://YOUR-LIVE-DEMO-LINK.netlify.app/" target="_blank">Live Demo</a> 
+</h2>
